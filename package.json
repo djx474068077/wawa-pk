@@ -14,8 +14,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
-    "vue": "^2.5.2",
+    "express-session": "^1.15.6",
+    "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
