@@ -1,4 +1,5 @@
 # wawa-pk
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+毕设
+>>>>>>> 27a836040f0a4ebcd40a5157c207756d2748c79e
